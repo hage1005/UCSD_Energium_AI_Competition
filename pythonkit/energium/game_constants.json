@@ -1,0 +1,18 @@
+{
+  "DIRECTIONS": {
+    "NORTH": "n",
+    "WEST": "w",
+    "EAST": "e",
+    "SOUTH": "s"
+  },
+  "PARAMETERS": {
+    "UNIT_COST": 50,
+    "MAX_TURNS": 200,
+    "INITIAL_POINTS": 50,
+    "BREAKDOWN_TURNS": 10,
+    "BREAKDOWN_MAX": 10,
+    "MAX_DIST": 1000,
+    "GOLDEN_RATIO": 0.618,
+    "SEARCH_RADIUS": 2
+  }
+}
